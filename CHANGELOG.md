@@ -1,5 +1,9 @@
 # SIG Change Log
 
+## 0.01.06
+- Criado arquivo Changelog no github
+- Corrigido erro ao baixar várias contas com status parcialmente pago
+- Adicionado opção de deletar, cancelar e ativar conta a pagar/receber recorrente
 ## 0.01.05
 - Retirada url das imagens referenciadas do site lorempixel
 - Preenchendo os campos created_at e updated_at no seeder das empresas
