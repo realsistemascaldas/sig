@@ -1,5 +1,10 @@
 # SIG Change Log
 
+## 1.01.09
+- Criada todas as permissões do sistema
+- Utilizando permissões nos menus
+## 1.01.07
+- Criado tela de extrato financeiro
 ## 0.01.06
 - Criado arquivo Changelog no github
 - Corrigido erro ao baixar várias contas com status parcialmente pago
