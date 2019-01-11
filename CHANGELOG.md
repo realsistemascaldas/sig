@@ -1,5 +1,8 @@
 # SIG Change Log
 
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/realsistemascaldas/sig.svg?columns=all)](https://waffle.io/realsistemascaldas/sig)
+
+
 ## 1.01.09
 - Criada todas as permissões do sistema
 - Utilizando permissões nos menus
