@@ -2,7 +2,22 @@
 
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/realsistemascaldas/sig.svg?columns=all)](https://waffle.io/realsistemascaldas/sig)
 
-
+## 1.01.13
+-	Utilizando permissões nas opções de editar e deletar da view Table
+-	Utilizando permissões nos cadastros de grupos de usuários, permissões e usuários
+-	Utilizando permissões nos cadastros de contas bancárias, categorias de pessoas e pessoas
+-	Utilizando permissões nos cadastros de categorias de produtos, pessoas e formas de pagamento
+-	Utilizando permissões nos cadastros de centro de custos e categoria financeira
+-	Utilizando permissões nos cadastros de contas a pagar e contas a pagar recorrentes
+-	Utilizando permissões nos cadastros de contas a receber e contas a receber recorrentes
+-	Opção de deletar grupos de usuários, permissões, usuários e contas bancárias
+-	Opção de deletar cidades, estados, bairros e categoria de pessoas e formas de pagamento
+-	Opção de deletar categoria de produtos, centro de custos e categoria financeira
+-	#99 #92 #97 #100 #102 #108 #109 #118
+## 1.01.12
+-	Corrigido bug que não alterava o tipo de documento de uma conta recorrente
+-	Utilizando permissões nos cadastros de bairros, cidades e estados
+-	#104 #98
 ## 1.01.09
 - Criada todas as permissões do sistema
 - Utilizando permissões nos menus
