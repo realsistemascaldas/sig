@@ -2,6 +2,18 @@
 
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/realsistemascaldas/sig.svg?columns=all)](https://waffle.io/realsistemascaldas/sig)
 
+## 1.01.15
+- Corrigido permissões extrato financeiro
+- Corrigido permissões fluxo de caixa
+- Criado permissões para transferência entre contas
+- Criado permissões para dar baixa, cancelar conta e imprimir recibo
+- Criada permissão para cancelar uma conta recorrente
+- Criadas permissões para o estoque e gerar contrato
+- Corrigido seeder de geração das categorias financeiras
+- Utilizando permissões na tela de fluxo de caixa, extrato, remessa e retorno
+- Criadas as permissões para imprimir de todos os itens do sistema
+- Criado campo para armazenar o tipo da permissão facilitando sua ordenação
+- #120 #119 #123 #114 #115 #110 #112 #101
 ## 1.01.13
 -	Utilizando permissões nas opções de editar e deletar da view Table
 -	Utilizando permissões nos cadastros de grupos de usuários, permissões e usuários
