@@ -2,6 +2,13 @@
 
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/realsistemascaldas/sig.svg?columns=all)](https://waffle.io/realsistemascaldas/sig)
 
+## 0.01.17
+-	Transferência entre contas
+-	Possibilidade de cadastrar uma conta parcelada como paga
+-	#46 #127
+## 1.01.15.0001
+-	Corrigido erro no cadastro de contas a receber recorrente
+-	#126
 ## 1.01.15
 - Corrigido permissões extrato financeiro
 - Corrigido permissões fluxo de caixa
