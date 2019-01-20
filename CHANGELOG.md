@@ -2,6 +2,12 @@
 
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/realsistemascaldas/sig.svg?columns=all)](https://waffle.io/realsistemascaldas/sig)
 
+## 0.01.20
+- Não deletar registros predefinidos sistema
+- Verificando relacionamentos antes de deletar:
+  Categoria financeira, categoria pessoa, bairro,
+  cidade, estado, categoria de produto e forma de pagamento
+- #63 #107 #116 #117
 ## 0.01.17
 -	Transferência entre contas
 -	Possibilidade de cadastrar uma conta parcelada como paga
