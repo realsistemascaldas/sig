@@ -1,14 +1,18 @@
 # SIG Change Log
 
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/realsistemascaldas/sig.svg?columns=all)](https://waffle.io/realsistemascaldas/sig)
-
-## 0.01.20
+## 1.01.23
+-	Criado página de acesso não autorizado
+-	Corrigido erro no cadastro grupos
+-	Melhorado cadastro de grupos
+-	#106 #125
+## 1.01.20
 - Não deletar registros predefinidos sistema
 - Verificando relacionamentos antes de deletar:
   Categoria financeira, categoria pessoa, bairro,
   cidade, estado, categoria de produto e forma de pagamento
 - #63 #107 #116 #117
-## 0.01.17
+## 1.01.17
 -	Transferência entre contas
 -	Possibilidade de cadastrar uma conta parcelada como paga
 -	#46 #127
@@ -48,25 +52,25 @@
 - Utilizando permissões nos menus
 ## 1.01.07
 - Criado tela de extrato financeiro
-## 0.01.06
+## 1.01.06
 - Criado arquivo Changelog no github
 - Corrigido erro ao baixar várias contas com status parcialmente pago
 - Adicionado opção de deletar, cancelar e ativar conta a pagar/receber recorrente
-## 0.01.05
+## 1.01.05
 - Retirada url das imagens referenciadas do site lorempixel
 - Preenchendo os campos created_at e updated_at no seeder das empresas
 - Corrigido bug no cadastro contas bancárias, não deixava cadastrar uma conta como padrão para receitas e despesas.
-## 0.01.04
+## 1.01.04
 - Opção de dar baixa em várias contas ao mesmo tempo
 - Retirado botões de imprimir e excluir (não utilizados) nos cadastros de usuários, groupos e permissões
-## 0.01.03
+## 1.01.03
 - Organizado as contas a pagar e receber pela data de vencimento e data de emissão
 - Validando dados antes de gravar as contas recorrentes
-## 0.01.02
+## 1.01.02
 - Corrigido erro na data de vencimento ao gerar contas a partir de contas recorrentes
 - Criado controller das contas recorrentes herdado por contas a pagar e receber recorrentes
 - Alterado o campo dia de vencimento conta recorrente de date para number(visualmente)
-## 0.01.01
+## 1.01.01
 - Cadastro rápido de bairros
 ## 0.12.29
 - Cadastro rápido de cidades
