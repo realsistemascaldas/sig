@@ -1,6 +1,18 @@
 # SIG Change Log
 
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/realsistemascaldas/sig.svg?columns=all)](https://waffle.io/realsistemascaldas/sig)
+
+## 1.02.01.001
+-	Gerando fluxo de caixa de meses anteriores e posteriores
+-	Retirado opção do cadastro de permissões
+-	#37 #130
+## 1.02 Estável (Permissões e transferência entre contas)
+-	Corrigido erro que não ativava o menu lateral ao criar ou editar um registro
+-	Mostrando a soma das entradas nos detalhes do fluxo de caixa
+-	#22 #55
+## 1.01.27
+-	Retirados cadastros da liderseg
+-	#103
 ## 1.01.23
 -	Criado página de acesso não autorizado
 -	Corrigido erro no cadastro grupos
