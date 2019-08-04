@@ -2,6 +2,31 @@
 
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/realsistemascaldas/sig.svg?columns=all)](https://waffle.io/realsistemascaldas/sig)
 
+## 1.8.03
+- Cadastro de veículos (Gerenciamento de frotas)
+- Correções na importação de notas por xml
+- Corrigido erro que mostrava todas as opções do menu quando tinha uma # no endereço
+- #40 #84
+## 1.8.02
+- Importação de notas fiscais de entrada por xml funcionando
+- Corrigido bug na geração de estatisticas (calculo dos últimos 6 meses)
+- Melhoria nas telas de entrada de notas e importação de xml (entrada notas)
+## 1.7.22
+- Criada tela que lê arquivo xml de entrada nota fiscal
+## 1.7.18
+- Criado as telas de entradas de mercadorias
+## 1.4.30
+- Correção de bug que não permitia o cadastro de contas a pagar e contas a receber
+
+## 1.4.28
+- Criado cadastro rápido de pessoas (CRP)
+- Utilizando CRP no cadastro de contas a pagar
+- Utilizando CRP no cadastro de contas a pagar recorrentes
+- Utilizando CRP no cadastro de contas a receber
+- Utilizando CRP no cadastro de contas a receber recorrentes
+- Utilizando o gitlab para hospedar as features, contagem praticamente reiniciou
+- Melhorada a aparência do botão de cadastro rápido
+- #54 #63
 ## 1.02.01.001
 -	Gerando fluxo de caixa de meses anteriores e posteriores
 -	Retirado opção do cadastro de permissões
