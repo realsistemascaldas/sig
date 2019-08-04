@@ -1,7 +1,8 @@
 # SIG Change Log
 
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/realsistemascaldas/sig.svg?columns=all)](https://waffle.io/realsistemascaldas/sig)
-
+## 1.8.04
+- Opção para lançar no estoque e no financeiro automaticamente ao importar o xml
 ## 1.8.03
 - Cadastro de veículos (Gerenciamento de frotas)
 - Correções na importação de notas por xml
