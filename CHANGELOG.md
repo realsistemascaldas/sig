@@ -1,6 +1,10 @@
 # SIG Change Log
 
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/realsistemascaldas/sig.svg?columns=all)](https://waffle.io/realsistemascaldas/sig)
+## 1.8.04.001
+- Criada tela para mostrar as notas fiscais de entrada
+- Melhoria nos alertas de quantidade mínima e máxima de estoque
+- Retirado painel de controle lateral
 ## 1.8.04
 - Opção para lançar no estoque e no financeiro automaticamente ao importar o xml
 ## 1.8.03
