@@ -1,6 +1,13 @@
 # SIG Change Log
 
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/realsistemascaldas/sig.svg?columns=all)](https://waffle.io/realsistemascaldas/sig)
+## 1.8.06
+- Função de substituir produto na entrada de nota fiscal por xml
+- Corrigido erro que não armazenava o número da duplicata das notas de entrada
+- Novo layout tela da tela que mostra as entradas de mercadorias
+- Controle de frotas
+- Cadastro de veiculos
+- Cadastro de tipos de serviços feitos nos veículos
 ## 1.8.04.001
 - Criada tela para mostrar as notas fiscais de entrada
 - Melhoria nos alertas de quantidade mínima e máxima de estoque
