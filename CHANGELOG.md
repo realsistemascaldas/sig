@@ -1,6 +1,34 @@
 # SIG Change Log
 
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/realsistemascaldas/sig.svg?columns=all)](https://waffle.io/realsistemascaldas/sig)
+## 1.8.26
+- Opção de cancelar uma nota fiscal
+- Opção de estonar os pagamentos lançados no financeiro de uma nota fiscal
+- Opção de estornar os produtos lançados no estoque de uma nota fiscal
+- Opção de trazer todas a movimentações de um produto no estoque na tela de entrada/saida
+## 1.8.22
+- Correção de pequenos bugs nos relatórios
+- Gerando o relatório de saldo de estoque
+- Criação do relatório de movimentações estoque
+- Criaçao dos menus de relatorios
+## 1.8.12
+- Criaçao e listagem de serviços dos veiculos funcionando
+## 1.8.11
+- Confimando antes de importar uma nota fiscal de entrada por xml
+- Criação da tabela de serviços das frotas
+- Mudança das telas de listagem e cadastro de serviço das frotas
+## 1.8.09.001
+- Desabilitada a rota de registrar novo usuário
+- Melhorias no design de algumas telas
+- Verificando se escolheu um arquivo xml válido
+## 1.8.08
+- Melhorado design de algumas telas nos dispositivos mobile
+## 1.8.07
+- Corrigido erro na importação do xml (tratando a falta de fornecedor e de duplicatas)
+- Adicionado campo margem de lucro na tela de cadastro de produtos
+- Gerando código do produto automaticamente
+- Botoes separados para entrada e saida produtos na tela que mostra as movimentacoes do estoque
+Pedindo confirmacao antes de cadastrar uma nota manual
 ## 1.8.06
 - Função de substituir produto na entrada de nota fiscal por xml
 - Corrigido erro que não armazenava o número da duplicata das notas de entrada
