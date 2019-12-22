@@ -1,6 +1,26 @@
 # SIG Change Log
 
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/realsistemascaldas/sig.svg?columns=all)](https://waffle.io/realsistemascaldas/sig)
+## 1.12.22
+- Criado tela de pedidos
+- Criado tabela de comissões
+## 1.12.10
+- Adicionado relatório de serviços das frotas
+- Criado as telas de cadastro de vendedores
+## 1.11.07
+- Adicionado funcionalidade de impressão para PDF
+## 1.10.11
+- Entrada na entrada de mercadorias:
+- Tratando quando adicionar um produto sem nome na entrada de notas
+- Calculando total ao buscar produto no autocomplete
+- Somando ipi e icms-st ao valor total da nota
+- Calculando o total do icms e ipi ao adicionar um produto
+- Autocomplete transportadoras
+## 1.9.15
+- Criado relatório de entrada de mercadorias
+- Verificando se nota está cancelada antes de testar duplicidade
+- Lançando o valor total da nota como uma duplicata, quando não encontrar parcelas na Nota Fiscal de entrada
+- Usando storage para armazenar as imagens dos produtos, usuários e pessoas
 ## 1.8.26
 - Opção de cancelar uma nota fiscal
 - Opção de estonar os pagamentos lançados no financeiro de uma nota fiscal
