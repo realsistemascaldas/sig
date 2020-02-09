@@ -1,6 +1,37 @@
 # SIG Change Log
 
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/realsistemascaldas/sig.svg?columns=all)](https://waffle.io/realsistemascaldas/sig)
+## 2.02.09
+- Correções de bugs e melhorias:
+  - Cadastro de pessoas
+  - Cadastro de usuários
+  - Entrada de mercadorias
+  - Pedidos
+  - Contas recorrentes
+  - Fluxo de caixa
+## 2.02.07
+- Correções de bugs e melhorias:
+  - Listagem contas a pagar e receber
+  - Cadastros contas a pagar e receber
+  - Fluxo de caixa
+## 2.02.05
+- Correções de bugs e melhorias:
+  - Entrada de mercadorias
+  - Pedidos
+  - Contas a pagar
+  - Contas a receber
+## 2.01.28
+- Correcao de pequenos bugs
+## 2.01.26
+- Criação do relatório de contas a receber
+- Melhorado o fluxo de caixa, pequenos detalhes
+## 2.01.12
+- Tela que mostra as comissões dos vendedores
+- Vendas >> Comissões
+## 2.01.01
+- Gerando números corretamente para os produtos
+- Gravando o total dos produtos na entrada de mercadorias e pedidos
+- Mostrando preço de venda ao inves de compra nos pedidos
 ## 1.12.22
 - Criado tela de pedidos
 - Criado tabela de comissões
